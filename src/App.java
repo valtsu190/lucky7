@@ -4,8 +4,6 @@ import java.util.Random;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        // oikein
-
         Scanner in = new Scanner(System.in);
         Random random = new Random();
 
@@ -155,6 +153,3 @@ public class App {
 
 // } while (oikeaNumero != randomNumber && oikeaNumero != randomNumber2 &&
 // oikeaNumero != randomNumber3);
-
-// Commit 1
-// commit 2

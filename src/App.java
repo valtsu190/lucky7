@@ -53,6 +53,8 @@ public class App {
             else if (score == 2) {
                 money = money + 5;
 
+                // lisätään "Jackpot" jos 3 seiskaa
+
             } else if (score == 3) {
                 System.out.println("Jackpot!");
                 money = money + 10;

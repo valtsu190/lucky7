@@ -151,3 +151,5 @@ public class App {
 
 // } while (oikeaNumero != randomNumber && oikeaNumero != randomNumber2 &&
 // oikeaNumero != randomNumber3);
+
+// Commit 1

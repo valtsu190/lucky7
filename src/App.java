@@ -17,6 +17,8 @@ public class App {
         String input = "";
         String input2 = "";
 
+        // Pyydetään pelaajalta aloitus rahamäärä
+
         System.out.println("Syötä aloitus rahamäärä");
 
         input2 = in.nextLine();
